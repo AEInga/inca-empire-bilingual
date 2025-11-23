@@ -38,6 +38,7 @@ images/ puede almacenar mapas, diagramas u otras imágenes.
 
 ## 📚 Contenido principal / Main content
 
+**ES**
 - content/es/introduccion.md
 - Visión general del Imperio Inca: origen, capital, extensión y cronología básica.
 
@@ -46,21 +47,25 @@ images/ puede almacenar mapas, diagramas u otras imágenes.
 
 - content/es/expansion_y_caida.md
 - Expansión del imperio, conquistas, relación con otros pueblos y proceso de conquista española.
-
+**EN**
 - content/en/introduction.md
 - General overview of the Inca Empire: origins, capital city, territorial expansion, and basic timeline.
+
 - content/en/society_and_culture.md
 - Social organization, economy, religion, daily life, and the labor system (mit’a).
+
 - content/en/expansion_and_fall.md
 - Imperial expansion, wars, relations with neighboring peoples, and the Spanish conquest.
 
 ## 🤝 Contribuciones / Contributions
 
+**ES**
 Las contribuciones son bienvenidas. Puedes:
 - Corregir errores históricos o de ortografía.
 - Añadir nuevas secciones (religión, arquitectura, caminos, etc.).
 - Traducir partes que solo estén en un idioma.
 
+**EN**
 Contributions are welcome. You can:
 - Fix historical or spelling errors.
 - Add new sections (religion, architecture, road system, etc.).
